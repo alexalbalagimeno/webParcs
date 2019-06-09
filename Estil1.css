@@ -1,0 +1,328 @@
+
+a {
+    width: 30px;
+    background-color: transparent;
+    text-align: right;
+    font-size: 150%;
+    color: #663300;
+    border: 1px solid black;
+    margin: 1px 1px 1px 2px;
+    text-decoration: none;
+    transition: width 0.8s ease;
+    overflow: hidden;
+    border-radius: 3px;
+}
+a:hover {
+    text-shadow: 0px 0px 1px black;
+    background-color: transparent;
+    width: 510px;
+    padding: 0px 5px 0px 0px;
+}
+#index{
+    background-color: #ffbb33;
+    font-family: Georgia;
+    font-size: 115%;
+    text-align: left;
+    border: 3px solid #FF0000;
+    padding: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+#index a:link{
+    padding: 3px;
+    border: none;
+    text-decoration: none;
+    margin-left: 2px;
+    margin-top: 2px;
+}
+#index a:hover{
+    font-weight: bold;
+    text-decoration: underline purple; 
+    border: none;
+    color: purple;
+}
+h1{
+    background-color: transparent;
+    text-align: center;
+    color: #663300;
+    text-shadow: 2px 2px 1px black;
+    font-size: 250%;
+    font-family: sans-serif;
+    margin: 5px;
+}
+h2{
+    margin: 20px 1px 30px 1px;
+    background-color: transparent;
+    text-align: center;
+    font-size: 180%;
+    font-family: sans-serif;
+    text-shadow: 3px 3px 2px grey;
+    color: black;
+    width: 100%;
+}
+h3{
+    background-color: transparent;
+    margin: 20px 1px 1px 1px;
+    font-size: 130%;
+    font-family: Goudy Old Style;
+    font-style: italic;
+}
+h4{
+    text-align: center;
+    background-color: transparent;
+    margin-top: 60px;
+    font-size: 110%;
+    margin: 20px;
+}
+hr{
+    background-color: transparent;
+    margin: 1px 0px 15px 0px;
+}
+#secdistricte{
+    color: #FFA500;
+    font-size: 135%;
+}
+#secdistricte h1{
+    color: #ffbb33;
+    text-shadow: 3px 3px 2px #cc0000;
+    font-family: forte;
+    font-size: 300%;
+    text-align: center;
+}
+#secdistricte p{
+    color: black;
+    font-size: 120%;
+    text-align: center;
+}
+#secdistricte img{
+    display: block;
+    margin: auto;
+}
+ul li {
+    background: #ffefcc;
+    margin: 5px;
+}
+ul {
+    background: #ffd480;
+    padding: 20px;
+}
+p {
+    margin: 0px 1px 0px 0px;
+    background-color: transparent;
+    text-align: justify;
+    font-size: 90%;
+    font-family: sans-serif;
+    color: black;
+    width: 100%;
+}
+.flexible{
+    margin: 0px 4px 0px 4px;
+    border: 1px solid black;
+    display: flex;
+    background-color: transparent;
+    padding: 3px;
+    background-image: url("fondo1.jpg");
+}
+.flexible>div{
+    background-color: transparent;
+    height: 900px;
+    margin: 2px 2px 2px 2px;
+    width: 33%;
+    padding: 3px 7px 3px 3px;
+    overflow: auto;
+}
+.flexible>div img{
+    width: 100%;
+}
+.flexible1{
+    margin: 0px 4px 0px 4px;
+    border: 1px solid black;
+    display: flex;
+    background-color: transparent;
+    padding: 3px;
+    background-image: url("fondo2.jpg");
+}
+.flexible1>div{
+    background-color: transparent;
+    height: 900px;
+    margin: 2px 2px 2px 2px;
+    width: 33%;
+    padding: 3px 7px 3px 3px;
+    overflow: auto;
+}
+.flexible1>div img{
+    width: 100%;
+}
+.flexible2{
+    margin: 0px 4px 0px 4px;
+    border: 1px solid black;
+    display: flex;
+    background-color: transparent;
+    padding: 3px;
+    background-image: url("fondo3.jpg");
+}
+.flexible2>div{
+    background-color: transparent;
+    height: 900px;
+    margin: 2px 2px 2px 2px;
+    width: 33%;
+    padding: 3px 7px 3px 3px;
+    overflow: auto;
+}
+.flexible2>div img{
+    width: 100%;
+}
+.flexible3{
+    margin: 0px 4px 0px 4px;
+    border: 1px solid black;
+    display: flex;
+    background-color: transparent;
+    padding: 3px;
+    background-image: url("fondo4.jpg");
+}
+.flexible3>div{
+    background-color: transparent;
+    height: 900px;
+    margin: 2px 2px 2px 2px;
+    width: 33%;
+    padding: 3px 7px 3px 3px;
+    overflow: auto;
+}
+.flexible3>div img{
+    width: 100%;
+}
+#imatgeesquerre{
+    float: left;
+    width: 60%;
+    margin: 0px 10px 5px 0px;
+}
+#imatgedreta{
+    float: right;
+    width: 60%;
+    margin: 0px 0px 5px 10px;
+}
+.capsalinkhorta{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    margin: 3px 4px 4px 4px;
+    border: 1px solid black;
+    background-image: url("fondomenuhorta.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.capsalinkhorta a{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    color: #134d00;
+}
+.capsalinkhorta h1{
+    background-color: transparent;
+    text-align: center;
+    color: #134d00;
+    text-shadow: 2px 2px 1px black;
+    font-size: 250%;
+    font-family: sans-serif;
+    margin: 5px;
+}
+.capsalinksarria{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    margin: 3px 4px 4px 4px;
+    border: 1px solid black;
+    background-image: url("fondomenusarria.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.capsalinksarria a{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    color: #004d99;
+}
+.capsalinksarria h1{
+    background-color: transparent;
+    text-align: center;
+    color: #004d99;
+    text-shadow: 2px 2px 1px black;
+    font-size: 250%;
+    font-family: sans-serif;
+    margin: 5px;
+}
+.capsalinksant{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    margin: 3px 4px 4px 4px;
+    border: 1px solid black;
+    background-image: url("fondomenumontjuic.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.capsalinkvella{
+    margin: 3px 4px 4px 4px;
+    border: 1px solid black;
+    background-image: url("fondomenuvella.jpg");
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.capsalinkvella a{
+    font-family: Goudy Old Style;
+    font-weight: bold;
+    color: #b30000;
+}
+.capsalinkvella h1{
+    background-color: transparent;
+    text-align: center;
+    color: #b30000;
+    text-shadow: 2px 2px 1px black;
+    font-size: 250%;
+    font-family: sans-serif;
+    margin: 5px;
+}
+#webext a:link{
+    font-size: 110%;
+    margin-top: 20px;
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+}
+#webext a:hover{
+    font-size: 110%;
+    margin-top: 20px;
+    background-color: transparent;
+    border: none;
+    color: purple;
+    text-decoration: underline purple;
+}
+#webext img{
+    width: 3%;
+}
+#botoindex a:link{
+    background-color: transparent;
+    border: none;
+    text-decoration: none;
+}
+#botoindex a:hover{
+    background-color: transparent;
+    border: none;
+}
+#botoindex img{
+    width: 8%;
+}
+.footer{
+    border: 1px solid black;
+    padding: 3px;
+    margin: 5px 4px 10px 4px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+}

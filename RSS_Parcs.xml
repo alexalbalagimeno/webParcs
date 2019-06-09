@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Parcs i Jardins de Barcelona</title> 
+           <link>http://labs.iam.cat/~a17alealbgim/Pr%c3%a0ctiques/ParcsdeBarcelona(v4)/ParcsBarcelona.html</link> 
+                <description>
+                WEB amb els parcs i jardins de la ciutat de Barcelona
+                </description> 
+                <language>ca-CA</language>
+            <item>
+                <title>El Park Güell</title> 
+                <link>https://www.parkguell.cat/es/</link> 
+                    <description>
+                    <b>El Park Güell</b>, una de les obres més emblemàtiques <i>d'Antoni Gaudí</i>, és un recinte monumental <u>únic al món</u> perquè va ser concebut com un recinte monumental on l’entorn natural és inseparable dels elements arquitectònics. La seva singularitat va ser reconeguda l’any 1969, quan va ser declarat <b>monument historicoartístic d’interès nacional</b> i, sobretot, el 1984, en ser declarat patrimoni de la humanitat per la <q>UNESCO</q>.
+                    </description> 
+             </item>
+            <item>
+                <title>El Parc de Collserola</title> 
+                <link>http://www.parcnaturalcollserola.cat/es</link> 
+                    <description>
+                    El <b>parc de Collserola</b>, amb més de 8.000 ha, és un <i>patrimoni natural</i> d'un valor incalculable. La seva importància rau en la proximitat de l'entorn urbà. És un pulmó, un eix vertebrador de la biodiversitat i el connector de dos sistemes aparentment oposats: natura i ciutat. La seva preservació i manteniment és, al mateix temps, un repte i una garantia de la qualitat de vida dels barcelonins.
+                    </description> 
+             </item>
+            <item>
+                <title>El Parc de Diagonal Mar</title> 
+                <link>https://es.wikipedia.org/wiki/Parque_de_Diagonal_Mar</link> 
+                    <description>
+                    <b>Diagonal Mar</b> és el <i>segon parc més gran de Barcelona</i>. És un espai immens i assolellat, diàfan, absolutament accessible, on l'aigua d'un gran llac comparteix protagonisme amb turons coberts de gespa i una vegetació exuberant. El parc s’ordena seguint una sèrie de camins que, com un arbre, es ramifiquen cap a totes les direccions. Arreu, tot separant i endreçant espais, llarguíssims bancs de formigó que volen evocar les ones del mar van agafant la forma d’aquests camins i els contorns de diverses placetes.
+                    </description> 
+             </item>
+    </channel>
+</rss>
